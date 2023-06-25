@@ -130,7 +130,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        xlink:href="#linearGradient45642"
-       id="linearGradient42644"
+       id="linearGradient13238"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.25,0.79374989,-3.0427069)"
        x1="4.2333326"
@@ -149,7 +149,7 @@
      id="layer6"
      transform="translate(-53.974995,-17.991665)">
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient42644);fill-opacity:1;stroke:none;stroke-width:1.18325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient13238);fill-opacity:1;stroke:none;stroke-width:1.18325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 5.0270826,14.816665 c 0,0.992188 2.645833,1.322916 4.2333328,1.322916 1.5874976,0 4.2333306,-0.330728 4.2333306,-1.322916 0,-0.992187 -2.778792,-1.322916 -4.2333306,-1.322916 -1.4545399,0 -4.2333328,0.330729 -4.2333328,1.322916 z"
        id="use60224-5"
        class="UnoptimicedTransforms"
@@ -194,7 +194,7 @@
          id="path67570" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 4.7625328,3.9687436 c 0,0 -0.2646678,2.3812555 -0.2646492,3.4395887 1.3229165,0.5291666 3.9687796,0.5291673 3.9687796,0.5291673 0,0 2.6458028,-7e-7 3.9687198,-0.5291673 -1.9e-5,-1.0583332 -0.264518,-3.4395887 -0.264518,-3.4395887 0,0 -1.587566,0.2645891 -3.7042319,0.2645891 -2.1166664,0 -3.7041003,-0.2645891 -3.7041003,-0.2645891 z"
+         d="m 4.7625328,3.9687436 c 0,0 -0.2646678,2.3812555 -0.2646492,3.4395887 1.3229165,0.5291666 3.9687796,0.5291673 3.9687796,0.5291673 0,0 2.6458028,-7e-7 3.9687198,-0.5291673 -1.9e-5,-1.0583332 -0.264518,-3.4395887 -0.264518,-3.4395887 0,0 -1.5875,0 -3.7041661,0 -2.1166664,0 -3.7041661,0 -3.7041661,0 z"
          id="path67572" />
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
