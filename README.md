@@ -4,4 +4,4 @@ Chess piece set with a cartoon 3D-esque style and a focus on readability, loosel
 
 ![example image](/screenshot.png)
 
-*shown with [smooth_sunset](https://sharechess.github.io/stylus/boards/smooth_sunset.user.css) board by [sharechess](https://github.com/sharechess/sharechess)*
+*shown with [smooth_forest](https://sharechess.github.io/stylus/boards/smooth_forest.user.css) board by [sharechess](https://github.com/sharechess/sharechess)*
