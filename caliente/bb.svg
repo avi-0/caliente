@@ -122,7 +122,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        xlink:href="#linearGradient45642"
-       id="linearGradient25702"
+       id="linearGradient20556"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.25,0.79374989,-3.0427069)"
        x1="4.2333326"
@@ -141,11 +141,11 @@
      id="layer6"
      transform="translate(-35.98333,-17.991665)">
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient25702);fill-opacity:1;stroke:none;stroke-width:1.18325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient20556);fill-opacity:1;stroke:none;stroke-width:1.25861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 5.0270826,14.816665 c 0,0.992188 2.645833,1.322916 4.2333328,1.322916 1.5874976,0 4.2333306,-0.330728 4.2333306,-1.322916 0,-0.992187 -2.778792,-1.322916 -4.2333306,-1.322916 -1.4545399,0 -4.2333328,0.330729 -4.2333328,1.322916 z"
        id="use175066"
        class="UnoptimicedTransforms"
-       transform="matrix(1.1250003,0,0,1.1000001,34.561211,16.642288)" />
+       transform="matrix(1.0937503,0,0,0.99999995,34.718308,17.991665)" />
     <g
        id="g9121"
        style="display:inline"

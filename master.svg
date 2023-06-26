@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="master.svg"
-   inkscape:export-filename="plain\nw.png"
+   inkscape:export-filename="caliente/out"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,15 +30,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="168.11464"
-     inkscape:cy="89.802561"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="87.504465"
+     inkscape:cy="95.81297"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g62410-2"
+     inkscape:current-layer="layer6"
      showguides="false"
      inkscape:lockguides="false">
     <inkscape:grid
@@ -1233,7 +1233,7 @@
          inkscape:label="outline" />
     </g>
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient174041);fill-opacity:1;stroke:none;stroke-width:1.18325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient174041);fill-opacity:1;stroke:none;stroke-width:1.25861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 5.0270826,14.816665 c 0,0.992188 2.645833,1.322916 4.2333328,1.322916 1.5874976,0 4.2333306,-0.330728 4.2333306,-1.322916 0,-0.992187 -2.778792,-1.322916 -4.2333306,-1.322916 -1.4545399,0 -4.2333328,0.330729 -4.2333328,1.322916 z"
        id="path104271"
        sodipodi:nodetypes="cscsc"
@@ -1245,7 +1245,7 @@
        inkscape:tile-x0="4.2333327"
        inkscape:tile-y0="14.287498"
        class="UnoptimicedTransforms"
-       transform="matrix(1.1250003,0,0,1.1000001,-1.4221367,-1.349376)" />
+       transform="matrix(1.0937503,0,0,0.99999995,-1.2650402,9.6337469e-7)" />
     <g
        id="g62410-9"
        inkscape:label="pw"
@@ -1576,6 +1576,12 @@
          class="UnoptimicedTransforms"
          transform="translate(0.07913911,0.00673837)" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path104271"
+       id="use60280"
+       transform="matrix(1.111111,0,0,1,70.967134,0)" />
     <g
        id="g28618"
        inkscape:label="qw"
@@ -1938,12 +1944,6 @@
        xlink:href="#path104271"
        id="use60224-5"
        transform="matrix(1.111111,0,0,1,52.975455,17.991664)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path104271"
-       id="use60280"
-       transform="matrix(1.111111,0,0,1,70.967134,0)" />
     <g
        id="g67576"
        inkscape:label="rw"
